@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643776245162",
+    "firebase_url": "https://birdworldapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "birdworldapp",
+    "storage_bucket": "birdworldapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643776245162:android:c3bf228240c182293d4fd3",
+        "android_client_info": {
+          "package_name": "com.example.bird_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643776245162-sc7a42154cpun88p3sc6liooefsn3r8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bird_world",
+            "certificate_hash": "f911c69cbe3998cd3a5c728a54119d32e4f49df1"
+          }
+        },
+        {
+          "client_id": "643776245162-jn2e6gun19mtqupo9p0hjs7espai4hmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASb5bA0y1G_0ED4Mtsgb75c1K31JcNKxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643776245162-jn2e6gun19mtqupo9p0hjs7espai4hmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
